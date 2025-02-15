@@ -1,5 +1,14 @@
+body {
+    width: 800px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1 {
     color: blue;
+    text-align: center;
+    border: 2px solid blue;
 }
 
 p {
@@ -9,4 +18,8 @@ p {
 .burger-paragraph {
     color: green;
     font-weight: 800;
+}
+
+.list {
+    text-align: center;
 }
